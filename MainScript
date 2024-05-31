@@ -1,6 +1,6 @@
 game.StarterGui:SetCore("SendNotification",  {
- Title = "lockerware #vault";
- Text = "Made By shidexdd/luda";
+ Title = "Universal Hub";
+ Text = "Made by ...";
  Icon = "http://www.roblox.com/asset/?id=17634732744";
  Duration = 98083905839058095809389034;
  Button1 = "Close";
